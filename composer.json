@@ -1,5 +1,5 @@
 {
-  "name" : "thomseddon/oauth2-php",
+  "name" : "joesong/oauth2-php",
   "description" : "CakePHP OAuth2 Server Plugin",
   "authors" : [{
       "name" : "Quizlet",
@@ -11,14 +11,14 @@
       "role" : "Maintainer"
     }, {
       "name" : "OAuth2 PHP Community",
-      "homepage" : "https://github.com/thomseddon/oauth2-php/graphs/contributors"
+      "homepage" : "https://github.com/JoeSong/oauth2-php/graphs/contributors"
     }
   ],
   "keywords" : [
     "oauth",
     "oauth2"
   ],
-  "homepage" : "https://github.com/thomseddon/oauth2-php",
+  "homepage" : "https://github.com/JoeSong/oauth2-php",
   "license" : [
     "MIT"
   ],
